@@ -1,8 +1,12 @@
 # i0sh
 
-> i0Ek3's Shell. [WIP]
+> i0Ek3's Shell. 
 
 This is a light Shell which I create it to learn how a real Shell to work, and I dubbed it to `i0sh`.
+
+## Screenshot
+
+![](https://github.com/i0Ek3/i0sh/blob/master/pic/screenshot.jpg)
 
 ## Structure
 
